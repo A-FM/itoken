@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/itoken-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-common/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-common-domain/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-common-service/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-common-web/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-config/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-service-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-service-posts/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-service-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-service-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-service-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-web-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-web-backend/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-web-posts/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/itoken-zuul/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

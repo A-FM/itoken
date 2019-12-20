@@ -1,0 +1,6 @@
+stages:
+  - deploy
+deploy:
+  stage: deploy
+  script:
+    - /usr/local/maven/apache-maven-3.6.1/bin/mvn deploy

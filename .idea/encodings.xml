@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/itoken-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-common-domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-common-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-common-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-common-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-common-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-common-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-dependencies" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-service-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-service-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-service-posts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-service-posts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-service-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-service-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-service-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-service-sso/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-service-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-service-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-web-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-web-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-web-backend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-web-backend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-web-posts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-web-posts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-zipkin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itoken-zuul/src/main/java" charset="UTF-8" />
+  </component>
+</project>

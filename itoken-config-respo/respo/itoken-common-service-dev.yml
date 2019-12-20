@@ -1,0 +1,5 @@
+mybatis:
+  configuration:
+    cache-enabled: true
+  type-aliases-package: pers.ycy.itoken.common.domain
+  mapper-locations: classpath:mapper/*.xml

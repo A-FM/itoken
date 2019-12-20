@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itoken-service-upload" />
+        <module name="itoken-common-domain" />
+        <module name="itoken-common-service" />
+        <module name="itoken-eureka" />
+        <module name="itoken-config" />
+        <module name="itoken-admin" />
+        <module name="itoken-common" />
+        <module name="itoken-service-admin" />
+        <module name="itoken-zuul" />
+        <module name="itoken-web-backend" />
+        <module name="itoken-service-posts" />
+        <module name="itoken-web-posts" />
+        <module name="itoken-common-web" />
+        <module name="itoken-zipkin" />
+        <module name="itoken-service-sso" />
+        <module name="itoken-web-admin" />
+        <module name="itoken-service-redis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itoken-admin" target="1.8" />
+      <module name="itoken-common" target="1.8" />
+      <module name="itoken-common-domain" target="1.8" />
+      <module name="itoken-common-service" target="1.8" />
+      <module name="itoken-common-web" target="1.8" />
+      <module name="itoken-config" target="1.8" />
+      <module name="itoken-dependencies" target="1.8" />
+      <module name="itoken-eureka" target="1.8" />
+      <module name="itoken-service-admin" target="1.8" />
+      <module name="itoken-service-posts" target="1.8" />
+      <module name="itoken-service-redis" target="1.8" />
+      <module name="itoken-service-sso" target="1.8" />
+      <module name="itoken-service-upload" target="1.8" />
+      <module name="itoken-web-admin" target="1.8" />
+      <module name="itoken-web-backend" target="1.8" />
+      <module name="itoken-web-posts" target="1.8" />
+      <module name="itoken-zipkin" target="1.8" />
+      <module name="itoken-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="itoken-admin" options="-parameters" />
+      <module name="itoken-common" options="-parameters" />
+      <module name="itoken-common-domain" options="-parameters" />
+      <module name="itoken-common-service" options="-parameters" />
+      <module name="itoken-common-web" options="-parameters" />
+      <module name="itoken-config" options="-parameters" />
+      <module name="itoken-eureka" options="-parameters" />
+      <module name="itoken-service-admin" options="-parameters" />
+      <module name="itoken-service-posts" options="-parameters" />
+      <module name="itoken-service-redis" options="-parameters" />
+      <module name="itoken-service-sso" options="-parameters" />
+      <module name="itoken-service-upload" options="-parameters" />
+      <module name="itoken-web-admin" options="-parameters" />
+      <module name="itoken-web-backend" options="-parameters" />
+      <module name="itoken-web-posts" options="-parameters" />
+      <module name="itoken-zipkin" options="-parameters" />
+      <module name="itoken-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>
